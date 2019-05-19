@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:0,MBC 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
+#EXTINF:0,MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
+#EXTINF:0,MBC 2
+http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8
+#EXTINF:0,MBC 4
+http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
+#EXTINF:0,MBC Action
+http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
+#EXTINF:0,MBC Max
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:0,MBC Masr
+http://madaineh-com.stackstaging.com/hls/mbc/mbc-msr2.php.m3u8
+#EXTINF:0,MBC Drama
+
+http://92.186.67.58:8000/play/a0kb/index.m3u8
+#EXTINF:0,MBC Bollyood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:0,star world
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+#EXTINF:0,B4U Aflam
+
+http://92.186.67.58:8000/play/a0tj/index.m3u8
+#EXTINF:0,Zee Alwan TV
+http://95.170.215.124/live/disk1/ZEE-ALWAN/anevia1/ZEE-ALWAN.m3u8
+#EXTINF:0,Zee Aflam TV
+http://95.170.215.124/live/disk1/Zee_Aflam/anevia1/Zee_Aflam.m3u8
+#EXTINF:0,Imagine movies TV
+http://95.170.215.124/live/disk1/Imagine_Movies/anevia1/Imagine_Movies.m3u8
+#EXTINF:0,OSN Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
+#EXTINF:0,OSN Music Now
+http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8
+#EXTINF:0,Imagine movies TV
+http://95.170.215.124/live/disk1/Imagine_Movies/anevia1/Imagine_Movies.m3u8
+#EXTINF:0,STAR MOVIES AR
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:0,STAR WORLD AR
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8

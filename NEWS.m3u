@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:0,Al Jazeera Arabic
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:0,France 24 Arabic
+http://f24hls-i.akamaihd.net/hls/live/221196-b/F24_AR_LO_HLS/master_900.m3u8
+#EXTINF:0,BBC Arabic
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:0,Sky News Arabic
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/45.ts
+#EXTINF:0,TRT Arabic
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:0,Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_b4500000.m3u8
+#EXTINF:0,RT Arabic
+https://rt-arab.secure.footprint.net/1104-inadv-qidx-1k_v3.m3u8
+#EXTINF:0,Alalam News
+https://live2.alalam.ir/live/Alalam_high/index.m3u8
+#EXTINF:0,Al Hurra
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
+#EXTINF:0,EL SHARQ TV
+http://cdg3.edge.tmed.pw/elsharqtv/abr/elsharqtv/live_1024p/chunks.m3u8?nimblesessionid=37281978
+#EXTINF:0,Mekameleen
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1800000.m3u8
+#EXTINF:0,Alaraby 1
+http://213.162.202.9:8000/play/a01u/index.m3u8
+#EXTINF:0,Alaraby 2
+http://213.162.202.9:8000/play/a01j/index.m3u8
+#EXTINF:0,Almayadeen
+http://live.mdn.tv/almayadeen/smil:mayadeen.smil/chunklist_b850000.m3u8
+#EXTINF:0,Alhiwar
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1264000.m3u8
+#EXTINF:0,DW Arabic
+http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8
+#EXTINF:0,Al Sharqia News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1524663804.m3u8
+#EXTINF:0,EnnaharTV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
+#EXTINF:0,Nabaa
+http://31.14.40.237:1935/live/Nabaa/chunklist_w2118808920.m3u8
+#EXTINF:0,Alarabiya Alhadath
+http://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b585000.m3u8
+#EXTINF:0,Aljazeera Mubasher Misr
+http://aljazeera-mubasher-misr-apple-live.adaptive.level3.net/apple/aljazeera/mub-misr/160.m3u8
+#EXTINF:0,Aljazeera Inglish
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:0,CGTN Arabic
+http://39.135.16.142:6060/PLTV/88888888/224/3221225669/1/index.m3u8?fmt=ts2hls
+#EXTINF:0,Al Quds TV
+http://www.qudstv.com:8134/hls-live/livepkgr1/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,Libya Al Hadath
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
+#EXTINF:0,CBC Extra News
+http://95.170.215.124/live/disk1/Extra-News/anevia1/Extra-News.m3u8
+
