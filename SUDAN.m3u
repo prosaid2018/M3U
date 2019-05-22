@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:0,Sudan Channel
+http://62.210.141.179:8000/live/ibrahim/123456/114.m3u8
+#EXTINF:0,tayba
+http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w461985027.m3u8
+#EXTINF:0,Ifilm Iran
+http://mn-nl.mncdn.com/ifilm/smil:ifilmar.smil/chunklist_b1096000.m3u8?
+#EXTINF:0,afriqia1
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:0,afriqia2
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:0,afriqia3
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
+#EXTINF:0,,Tayba TV (Sudan)
+http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8
+#EXTINF:0,Africa TV Hausa
+http://new.holol.com:1935/tayba/africah/playlist.m3u8
+#EXTINF:0,Khartoum TV
+http://38.99.146.36:7777/KhartoumTV_HD/KhartoumTV_High/12411796.ts?session=7320b1be3f92b1be8c7110ac3f898cc92c9d91734f6f9f75c18cfa09a29ea99aa299017ce29bf1aa&hlsid=HTTP_ID_2098694&starttime=20190426T214800.205152
+#EXTINF:0,BlueNile
+http://38.99.146.36:7777/BlueNile_HD/BlueNile_High/12411839.ts?session=7320b1be3f92b1be8c7110ac3f898cc92c9d91734f6f9f75c18cfa09a29ea99aa299017ce29bf1aa&hlsid=HTTP_ID_2099267&starttime=20190426T214800.197149
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,

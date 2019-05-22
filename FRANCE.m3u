@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:0,TV5 MONDE INFO
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0,FRANCE 24 [FR]
+http://ott-cdn.ucom.am/s25/index.m3u8
+#EXTINF:0,FRANCE 24 [EN]
+http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8
+#EXTINF:0,L'Equipe 21
+http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
+#EXTINF:0,RT français
+http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
+#EXTINF:0,Tebeo
+http://live2.awedia.com/hls/tebeo.m3u8
+#EXTINF:0,Alsace20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:0,Bblack! Caribbean
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:0,Bblack! Africa
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:0,Trace Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:0,FOX Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:0,NRJ Hits TV
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,

@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1,(KSA) Quran TV
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+#EXTINF:0,Al Sounna Nabawia
+http://199.167.151.237:1935/live/nsahs19_31.stream/chunklist_w554478593.m3u8?v=
+#EXTINF:0,Al Quran TV
+http://m.live.net.sa:1935/live/quran/chunklist_w46897547.m3u8?site=watcharab.com
+#EXTINF:0,Ayaat
+http://m.live.net.sa:1935/live/ayat/chunklist_w747779894.m3u8
+#EXTINF:0,Al Nabaa
+http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
+#EXTINF:0,Huda TV
+http://41.33.67.146:1935/live/1mystream/chunklist_w1441026105.m3u8
+#EXTINF:0,SA 24 Sport TV
+http://streamer12.elementssys.com:8080/SAUDI-Channels/24_SPORT/playlist.m3u8
+#EXTINF:0,Daawah TV
+http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8?nimblesessionid=18178962
+#EXTINF:0,wesal
+http://live.noorlive.com:1935/wesal/wesal1/chunklist_w213262418.m3u8
+#EXTINF:0,tayba
+http://tayba.live.net.sa:1935/tayba/taybatv/gmswf.m3u8
+#EXTINF:0,KSA Sport 1 HD
+http://linux-app.tv:6204/RDWAN/123/3039
+#EXTINF:0,MADINAH
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:0,MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:0,altanasuh
+http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
+#EXTINF:0,tayba
+http://tayba.live.net.sa:1935/tayba/taybatv/gmswf.m3u8
+#EXTINF:0,Makkah TV
+http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
+#EXTINF:0,SBC
+https://cllive.itworkscdn.net/sbclive/token=nva=1548954962~dirs=1~hash=01a44c3c99a7bc4e6ffca/sbc.smil/playlist.m3u8
+#EXTINF:0,Saudi TV
+https://cllive.itworkscdn.net/ksa1live/token=nva=1548955405~dirs=1~hash=01113c2efa9778f347227/ksa1.smil/playlist.m3u8
+#EXTINF:0,Saudi 24
+https://www.youtube.com/watch?v=d13AnBnA1KY
+#EXTINF:0,Semsem
+https://wowzaprod188-i.akamaihd.net/hls/live/729648/aef554b6_1_640/chunklist.m3u8
+#EXTINF:0,Rotana Aflam
+http://185.27.116.54:8081/livestream/rotanaaflamm/chunks.m3u8
+#EXTINF:0,Rotana Cinema
+http://95.170.215.124/live/disk1/Rotana-Cinema-KSA/anevia1/Rotana-Cinema-KSA-video=1279600-audio_AACL_eng_160000_34=160000.m3u8
+#EXTINF:0,Rotana Classic
+http://streaming.i-sat.tv:1935/live/rtca/chunklist_w156047486.m3u8
+#EXTINF:0,Rotana Masriya
+http://streaming.i-sat.tv:1935/livestream/rotanamasr/chunklist_w922654262.m3u8
+#EXTINF:0,Rotana Drama
+http://streaming.i-sat.tv:1935/livestream/rotanamasr/chunklist_w1002071974.m3u8
+#EXTINF:0,Rotana Khalejia
+https://cllive.itworkscdn.net/rotanakhalijialive/token=nva=1548955254~dirs=1~hash=05cccfe1253956c618bb0/rkhalijia_360p/playlist.m3u8
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,

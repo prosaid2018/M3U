@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:0,Syrian Television TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:0,Orient TV
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist.m3u8
+#EXTINF:0,Syria Sat TV
+http://82.137.248.16:1935/Sat/stream20112018/playlist.m3u8
+#EXTINF:0,Syria Drama TV
+http://82.137.248.16:1935/Drama/stream20112018/playlist.m3u8
+#EXTINF:0,Syria Edu TV
+http://82.137.248.16:1935/SEdu/stream20112018/playlist.m3u8
+#EXTINF:0,Ugarit TV
+http://82.137.248.16:1935/Ugarit/stream20112018/playlist.m3u8
+#EXTINF:0,Nour Alsham TV
+http://82.137.248.16:1935/Nour/stream20112018/playlist.m3u8
+#EXTINF:0,Souryana TV
+http://82.137.248.16:1935/Souryana/stream20112018/playlist.m3u8
+#EXTINF:0,Lana TV
+https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
+#EXTINF:0,Lana Plus TV
+https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
+#EXTINF:0,Ninar TV
+https://stream.ninar.net/hls/ninar/stream.m3u8
+#EXTINF:0,Alikhbaria Syria
+http://82.137.248.16:1935/Snews/stream20112018/chunklist_w1335377366.m3u8
+#EXTINF:0,ANN
+http://ns8.indexforce.com:1935/ann/ann/chunklist_w868414798.m3u8
+#EXTINF:0,Syria TV
+http://82.137.248.16:1935/Sat/stream20112018/chunklist_w135412712.m3u8
+#EXTINF:0,Syrian Education TV
+http://82.137.248.16:1935/SEdu/stream20112018/chunklist_w163426742.m3u8
+#EXTINF:0,Lana
+http://mtqtqloqdxtlive.mediatriple.net/mtqtqloqdxtlive/broadcast_5ae30a53135d7.smil/chunklist_w542503051_b1000000.m3u8
+#EXTINF:0,DRAMA TV [270p]
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8
+#EXTINF:0,HALAB TODAY
+http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
+#EXTINF:0,Nour El Sham* (Syria)
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
+#EXTINF:0,Halab Today TV
+https://5972542c90409.streamlock.net:1937/8010/8010/playlist.m3u8
+#EXTINF:0,Sham FM TV
+http://shamfm.grtvstream.com:1984/live/shamfm_SD.m3u8
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,

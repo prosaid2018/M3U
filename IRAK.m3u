@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTINF:0,Al Hurra Irak
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/index_350_av-b.m3u8
+#EXTINF:0,Al Hurra
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
+#EXTINF:0,Al Sharqia News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1524663804.m3u8
+#EXTINF:0,Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w177110474.m3u8
+#EXTINF:0,Arrafidain TV
+https://cdg3.edge.tmed.pw/arrafidaintv/live_640p/chunks.m3u8?v=
+#EXTINF:0,Al Masar 
+http://212.18.231.213:1935/almasar/almasar_240p/chunklist_w1315965931.m3u8
+#EXTINF:0,Iraqia Sport
+http://95.170.215.124/live/disk1/Iraqia-Sport/anevia1/Iraqia-Sport-video=1587600-audio_AACL_eng_160000_34=160000.m3u8?v
+#EXTINF:0,Salam tv
+http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Al Rashid
+http://streamer11.elementssys.com:8080/alrashid/alrashid_1mbps/playlist.m3u8
+#EXTINF:0,Al Naaeem tv
+http://212.18.231.213:1935/alnaeemtv/alnaeemtv_360p/chunklist_w1953901873.m3u8
+#EXTINF:0,Al Forat
+http://212.18.231.213:1935/7/7_240p/chunklist_w991256271.m3u8
+#EXTINF:0,Samarra
+http://212.18.231.213:1935/samarra/samarra_240p/chunklist_w1404358886.m3u8
+#EXTINF:0,AlMaaref TV
+http://162.244.80.182:1935/liveTrans/ngrp:channel23_all/chunklist_w1505752310_b298304.m3u8
+#EXTINF:0,Al Itijah
+http://212.18.231.213:1935/aletejahtv/ngrp:aletejahtv_all/chunklist_w417749909_b331072.m3u8?v=
+#EXTINF:0,Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:0,Alsumaria
+http://38.99.146.36:7777/Alsumaria_HD/Alsumaria_HD/12412075.ts?session=7320b1be3f92b1be8c7110ac3f898cc92c9d91734f6f9f75c18cfa09a29ea99aa299017ce29bf1aa&hlsid=HTTP_ID_2102318&starttime=20190426T214800.157137
+#EXTINF:0,Alahad TV
+http://95.170.215.124/live/disk1/Al-Ahd/anevia1/Al-Ahd-audio_20000=160000-video=1587600.m3u8
+#EXTINF:0,Alforat News
+http://212.18.231.213:1935/7/7_360p/playlist.m3u8
+#EXTINF:0,Alhurra TV Iraq
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:0,Dijlah TV
+https://flupanel.ghaasi.com/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:0,Dua Channel
+http://38.96.175.40:1935/liveTrans//channel5_190k/chunklist.m3u8
+#EXTINF:0,GK Channel
+http://173.249.45.123:8080/hls/livestream/1_2/index.m3u8?sessId=26495
+#EXTINF:0,NRT
+http://185.105.4.210:1935/nrt/ngrp:livestream_all/chunklist.m3u8
+#EXTINF:0,NRT 2
+http://185.105.4.210:1935/nrt2/ngrp:livestream_all/chunklist.m3u8
+#EXTINF:0,EL HADAT
+http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
+
+
+
+
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,

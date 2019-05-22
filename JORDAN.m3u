@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:0,Roya
+http://roya-live.ercdn.net/roya/roya_360p.m3u8
+#EXTINF:0,Karamish
+http://95.170.215.124/live/disk1/Karamish/anevia1/Karamish-audio_20000=160000-video=1587600.m3u8
+#EXTINF:0,Kifa
+http://185.27.116.54:1935/livestream/kifa.stream_360p/chunklist_w648990676.m3u8
+#EXTINF:0,Jessr
+http://62.210.141.179:8000/live/ibrahim/123456/219.m3u8
+#EXTINF:0,JORDAN
+http://62.210.141.179:8000/live/ibrahim/123456/159.m3u8
+#EXTINF:0,Amen FM 89.5
+http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
+#EXTINF:-1,Almamlka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1,Jo Sat TV
+http://82.212.74.98:8000/live/7814.m3u8
+#EXTINF:-1,Seven Starts TV
+http://82.212.74.3:8000/live/7506.m3u8
+#EXTINF:0,Nabawi TV
+https://video2.onlivestreaming.net/nabawitv/livestream/chunks.m3u8
+#EXTINF:0,Sport TV
+http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
+#EXTINF:0,Jordan TV
+http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
+#EXTINF:0,Roya TV
+https://roya-live.ercdn.net/roya/roya_720p.m3u8
+#EXTINF:0,ATV
+http://82.212.74.3:8000/live/hls/7506.m3u8
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,

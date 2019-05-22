@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1,(QATAR) Aljazeera TV
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index576.m3u8
+#EXTINF:-1,(QATAR) Aljazeera Mubasher TV
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
+#EXTINF:-1,(QATAR) Alaraby TV
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Qatar TV
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR01/HR01.stream/playlist.m3u8
+#EXTINF:0,Al Rayyan TV-1
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR03/HR03.stream/playlist.m3u8
+#EXTINF:0,Al Rayyan TV-2
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR07/HR07.stream/playlist.m3u8
+#EXTINF:0,Al Jazeera Documentary [396p]
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:0,Al Jazeera Documentary
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/46.m3u8
+#EXTINF:0,Al Jazeera Arabic [1080p]
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
+#EXTINF:0,Al Jazeera Arabic [480p]
+http://ott-cdn.ucom.am/s69/index.m3u8
+#EXTINF:0,Al Jazeera English [EN][1080p]
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:0,Al Jazeera English [EN][480p]
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:0,Al Jazeera Arabic
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:0,Al Jazeera English 
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:0,Al Jazeera Mubasher
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
+#EXTINF:0,Al Kass 1
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR05/HR05.stream/playlist.m3u8
+#EXTINF:0,Al Kass 2
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR02/HR02.stream/playlist.m3u8
+#EXTINF:0,AL Rayyan TV
+http://alrayyan2live.azureedge.net/alrayyan1/alrayyan1.smil/chunklist_b564000.m3u8
+#EXTINF:0,Al Rayyan 2 TV
+http://alrayyan2live.azureedge.net/alrayyan2/alrayyan2.smil/chunklist_b564000.m3u8?v=759843591
+#EXTINF:0,Al Jazeera Documentary
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:0,Qatar
+http://89.211.63.16:1935/HR01/HR01.stream/chunklist_w2052424929.m3u8?v=o90410171945
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
+#EXTINF:0,
