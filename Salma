@@ -513,6 +513,8 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 #EXTINF:-1,Al Majid
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1,Karameesh
+http://188.160.0.148:1935/5c33373f8c73484/_definst_/smil:myStream.smil/chunklist_w1983676281_b1000000.m3u8
 #EXTINF:-1,Yle TV1
 http://yletv-lh.akamaihd.net/i/yletv1hls_1@103188/index_2764_av-p.m3u8
 #EXTINF:-1,Yle TV2
