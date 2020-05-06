@@ -1,33 +1,35 @@
 #EXTM3U
-#EXTINF:-1, Al Jazeera
+#EXTINF:-1,Al Jazeera
 http://ott-cdn.ucom.am/s69/04.m3u8
-#EXTINF:-1, Al Jazeera live
+#EXTINF:-1,Al Jazeera live
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1, Al Arabiya
+#EXTINF:-1,Al Arabiya
 http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
-#EXTINF:-1, FRANCE24
+#EXTINF:-1,FRANCE24
 http://f24hls-i.akamaihd.net/hls/live/221196-b/F24_AR_LO_HLS/master_900.m3u8
-#EXTINF:-1, Skynewsarabia
+#EXTINF:-1,Skynewsarabia
 http://livecdnh3.tvanywhere.ae/hls/skynewsar/01.m3u8
-#EXTINF:-1, TRT Arabia
+#EXTINF:-1,BBC Arabic
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+#EXTINF:-1,TRT Arabia
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1, Mekameleen TV
+#EXTINF:-1,Mekameleen TV
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1, SHAREQ
+#EXTINF:-1,SHAREQ
 http://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
-#EXTINF:-1, Watan
+#EXTINF:-1,Watan
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
-#EXTINF:-1, M24 TV
+#EXTINF:-1,M24 TV
 https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
-#EXTINF:-1, Al Magharibia
+#EXTINF:-1,Al Magharibia
 http://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
-#EXTINF:-1, Al Hurra
+#EXTINF:-1,Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1, CNBC Arabiya
+#EXTINF:-1,CNBC Arabiya
 http://live.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8
-#EXTINF:-1, Al Araby
+#EXTINF:-1,Al Araby
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1, Al-Hiwar
+#EXTINF:-1,Al-Hiwar
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1, Alaan TV
 http://livecdnh3.tvanywhere.ae/hls/alaantv/index.m3u8
