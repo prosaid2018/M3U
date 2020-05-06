@@ -122,10 +122,6 @@ https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 #EXTINF:-1,MBC Drama
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8
-#EXTINF:-1,MBC Drama+
-http://95.170.215.118/hls/m3u8/MBC-DRAMA-SS.m3u8
-#EXTINF:-1,MBC ACTION
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 #EXTINF:-1,MBC Iraq
 https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
 #EXTINF:-1,MBC Masr 1
