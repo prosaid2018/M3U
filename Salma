@@ -433,8 +433,8 @@ http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b200000
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 #EXTINF:-1, ADEN
 https://master.starmena-cloud.com/hls/aden.m3u8
-#EXTINF:-1 ,Yemen Shabab
-https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+#EXTINF:-1,,Mahrh TV
+http://82.212.74.99:8000/live/8173.m3u8
 #EXTINF:-1, Al GHAD
 http://82.212.74.3:8000/live/hls/7512.m3u8
 #EXTINF:-1, Suhail
