@@ -123,7 +123,7 @@ http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 #EXTINF:-1,MBC Drama
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8
 #EXTINF:-1,MBC Iraq
-http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
+http://www.elahmad.com/tv/watchtv.php?id=mbc_5
 #EXTINF:-1,MBC Masr 1
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8
 #EXTINF:-1,MBC Masr 2
