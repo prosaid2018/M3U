@@ -94,8 +94,8 @@ https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:0, Chada TV
 https://edge7.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
-#EXTINF:0, Al Maghribia
-http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,Al Maghribia
+http://streamxcode.ddns.net:25461/load/desiboyz150/6392.mpegts
 #EXTINF:0, Arryadia
 http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
 #EXTINF:0, Assadissa
@@ -206,6 +206,18 @@ http://livecdnh2.tvanywhere.ae/hls/cbc_sof/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/dmchd/06.m3u8
 #EXTINF:-1, Dmc Drama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
+#EXTINF:-1,NILE CINEMA
+http://streamxcode.ddns.net:25461/load/desiboyz150/6509.mpegts
+#EXTINF:-1,NILE COMEDY
+http://streamxcode.ddns.net:25461/load/desiboyz150/7583.mpegts
+#EXTINF:-1,NILE DRAMA
+http://streamxcode.ddns.net:25461/load/desiboyz150/6510.mpegts
+#EXTINF:-1,NILE SPORTS
+http://streamxcode.ddns.net:25461/load/desiboyz150/6513.mpegts
+#EXTINF:-1,Nile FAMILY
+http://streamxcode.ddns.net:25461/load/desiboyz150/7584.mpegts
+#EXTINF:-1,Nile Life
+http://streamxcode.ddns.net:25461/load/desiboyz150/7585.mpegts
 #EXTINF:-1, Nile Cinema
 http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
 #EXTINF:-1, Nile TV
@@ -218,6 +230,16 @@ http://95.170.215.107/hls/m3u8/ON-Drama.m3u8
 http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
 #EXTINF:-1, On Sport 
 http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
+#EXTINF:-1,CAIRO DRAMA
+http://streamxcode.ddns.net:25461/load/desiboyz150/715.mpegts
+#EXTINF:-1,PANORAMA DRAMA
+http://streamxcode.ddns.net:25461/load/desiboyz150/724.mpegts
+#EXTINF:-1,PANORAMA DRAMA 2
+http://streamxcode.ddns.net:25461/load/desiboyz150/725.mpegts
+#EXTINF:-1,PANORAMA FLIM
+http://streamxcode.ddns.net:25461/load/desiboyz150/726.mpegts
+#EXTINF:-1,PANORAMA FOOD
+http://streamxcode.ddns.net:25461/load/desiboyz150/727.mpegts
 #EXTINF:-1,AL FAJER 1
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1,AL FAJER 2
@@ -282,20 +304,34 @@ https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 http://82.212.74.2:8000/live/7321.m3u8
 #EXTINF:-1 ,El Watan 
 http://streaming.i-sat.tv:1935/live/libyaelwatan/chunklist_w391917388.m3u8
+#EXTINF:-1,Tunisia
+http://streamxcode.ddns.net:25461/load/desiboyz150/7589.mpegts
+#EXTINF:-1,Tunisia Nat 1
+http://streamxcode.ddns.net:25461/load/desiboyz150/6278.mpegts
+#EXTINF:-1,Tunisia Nat 2
+http://streamxcode.ddns.net:25461/load/desiboyz150/6279.mpegts
 #EXTINF:-1,SAHEL TV
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1,Jawhara FM
 https://streaming.toutech.net/live/jfm/index.m3u8
 #EXTINF:-1,Nessma TV
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
+#EXTINF:-1,ECHOUROUK TV
+http://streamxcode.ddns.net:25461/load/desiboyz150/6272.mpegts
+#EXTINF:-1,Algeria 3
+http://streamxcode.ddns.net:25461/load/desiboyz150/7578.mpegts
 #EXTINF:-1,Ennahar TV
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/chunks.m3u8
 #EXTINF:-1,Chaine Nord-Africaine
 http://str81.creacast.com/cna/live.sdp/playlist.m3u8
 #EXTINF:-1,Saudi 1
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-1,SAUDI 2
+http://streamxcode.ddns.net:25461/load/desiboyz150/6516.mpegts
 #EXTINF:-1,NABAA
 http://31.14.40.237:1935/live/Nabaa/chunklist_w2118808920.m3u8
+#EXTINF:-1,QATAR TV
+http://streamxcode.ddns.net:25461/load/desiboyz150/7682.mpegts
 #EXTINF:-1,Al Khalij TV
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1,Errisala
@@ -439,6 +475,14 @@ https://master.starmena-cloud.com/hls/aden.m3u8
 http://82.212.74.99:8000/live/8173.m3u8
 #EXTINF:-1, Al GHAD
 http://82.212.74.3:8000/live/hls/7512.m3u8
+#EXTINF:-1,YEMEN BALQEES
+http://streamxcode.ddns.net:25461/load/desiboyz150/7689.mpegts
+#EXTINF:-1,YEMEN SHABAB
+http://streamxcode.ddns.net:25461/load/desiboyz150/7688.mpegts
+#EXTINF:-1,YEMEN TODAY
+http://streamxcode.ddns.net:25461/load/desiboyz150/7687.mpegts
+#EXTINF:-1,YEMEN TV
+http://streamxcode.ddns.net:25461/load/desiboyz150/7686.mpegts
 #EXTINF:-1, Suhail
 http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:-1,Blue Nile
@@ -449,6 +493,8 @@ http://tayba.live.net.sa:1935/tayba/taybatv/Playlist.m3u8
 https://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/index.m3u8
 #EXTINF:-1,Al ALAMIA
 http://82.212.74.100:8000/live/hls/8950.m3u8
+#EXTINF:-1,AL JAZEERA DOC
+http://streamxcode.ddns.net:25461/load/desiboyz150/7576.mpegt
 #EXTINF:0,Nat Geo Abu Dhabi
 http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/index.m3u8
 #EXTINF:0,Nat Geo
@@ -465,6 +511,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 http://livecdnh2.tvanywhere.ae/hls/cbc_sof/04.m3u8
 #EXTINF:0,Beity TV
 http://82.212.74.99:8000/live/hls/8164.m3u8?v=1559313103&tokenekot=EJApSzLCfdCPwZJpuQwq
+#EXTINF:-1,FATAFEAT TV
+http://streamxcode.ddns.net:25461/load/desiboyz150/6401.mpegts
 #EXTINF:-1,BIENSPORT HD
 http://46.60.1.82:8081/live/hdmib3/chunks.m3u8?nimblesessionid=19261564&freedaily
 #EXTINF:-1,AD 1
@@ -501,6 +549,8 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1,Nickelodeon
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://streamxcode.ddns.net:25461/load/desiboyz150/4681.mpegts
 #EXTINF:-1,MBC3
 http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
 #EXTINF:-1,Taha TV
@@ -515,6 +565,8 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 #EXTINF:-1,Al Majid
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1,MICKEY TV
+http://streamxcode.ddns.net:25461/load/desiboyz150/6266.mpegts
 #EXTINF:-1,Karameesh
 http://188.160.0.148:1935/5c33373f8c73484/_definst_/smil:myStream.smil/chunklist_w1983676281_b1000000.m3u8
 #EXTINF:-1,Yle TV1
