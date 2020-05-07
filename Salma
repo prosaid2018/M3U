@@ -128,7 +128,7 @@ https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
 #EXTINF:-1,MBC Masr 1
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8
 #EXTINF:-1,MBC Masr 2
-http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
+https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
 #EXTINF:-1,MBC Max
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,CITRUSS
