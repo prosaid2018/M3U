@@ -598,8 +598,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1,Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-
-
 #EXTINF:-1,Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1,Nickelodeon
@@ -638,11 +636,17 @@ http://streamxcode.ddns.net:25461/load/desiboyz150/6266.mpegts
 http://188.160.0.148:1935/5c33373f8c73484/_definst_/smil:myStream.smil/chunklist_w1983676281_b1000000.m3u8
 #EXTINF:-1,Cbeebies
 http://51.52.156.22:8888/http/003
-#EXTINF:-1,Yle TV1
-http://yletv-lh.akamaihd.net/i/yletv1hls_1@103188/index_2764_av-p.m3u8
-#EXTINF:-1,Yle TV2
-http://yletv-lh.akamaihd.net/i/yletv2hls_1@103189/index_2764_av-p.m3u8
-#EXTINF:-1,Yle Feem
-http://yletv-lh.akamaihd.net/i/yleteemafemse_1@490776/master.m3u8
+#EXTINF:0,Yle 1
+http://yletv-lh.akamaihd.net/i/yletv1hls_1@103188/master.m3u8
+#EXTINF:0,Yle 2
+http://yletv-lh.akamaihd.net/i/yletv2hls_1@103189/master.m3u8
+#EXTINF:0,Yle Teema
+http://yletv-lh.akamaihd.net/i/yleteemahls_1@103187/master.m3u8
+#EXTINF:0,Yle Fem (suomi)
+http://yletv-lh.akamaihd.net/i/ylefemfihls_1@103185/master.m3u8
+#EXTINF:0,Yle Fem (ruotsi)
+http://yletv-lh.akamaihd.net/i/ylefemsehls_1@103186/master.m3u8
+#EXTINF:-1,Taivas TV7
+http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8
 #EXTINF:-1,AlKompis
 https://tv.stream.alkompis.se/hls/live_720/index.m3u8
