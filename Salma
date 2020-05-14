@@ -197,6 +197,8 @@ http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
 http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/04.m3u8
 #EXTINF:-1, CBC Sofra
 http://livecdnh2.tvanywhere.ae/hls/cbc_sof/04.m3u8
+#EXTINF:-1,CBC Drama
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/index.m3u8
 #EXTINF:-1, Dmc
 http://livecdnh3.tvanywhere.ae/hls/dmchd/06.m3u8
 #EXTINF:-1, Dmc Drama
@@ -215,9 +217,7 @@ http://streamxcode.ddns.net:25461/load/desiboyz150/7584.mpegts
 http://streamxcode.ddns.net:25461/load/desiboyz150/7585.mpegts
 #EXTINF:-1, Nile Cinema
 http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
-#EXTINF:-1, On Sport 1
-http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
-#EXTINF:-1, On Sport 
+#EXTINF:-1, On Sport
 http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
 #EXTINF:-1,CAIRO DRAMA
 http://streamxcode.ddns.net:25461/load/desiboyz150/715.mpegts
@@ -245,6 +245,8 @@ http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 #EXTINF:0,HALA
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#EXTINF:0,Makan 33 מכאן
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
 #EXTINF:0,Marah FM
 http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 #EXTINF:-1,PALESTINIAN TV
