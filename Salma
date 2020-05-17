@@ -204,11 +204,11 @@ http://livecdnh3.tvanywhere.ae/hls/dmchd/06.m3u8
 #EXTINF:-1, Dmc Drama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
 #EXTINF:-1,NILE CINEMA
-http://streamxcode.ddns.net:25461/load/desiboyz150/6509.mpegts
+http://livecdnh2.tvanywhere.ae/hls/n_cin/index.m3u8
 #EXTINF:-1,NILE COMEDY
 http://streamxcode.ddns.net:25461/load/desiboyz150/7583.mpegts
 #EXTINF:-1,NILE DRAMA
-http://streamxcode.ddns.net:25461/load/desiboyz150/6510.mpegts
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/index.m3u8
 #EXTINF:-1,NILE SPORTS
 http://streamxcode.ddns.net:25461/load/desiboyz150/6513.mpegts
 #EXTINF:-1,Nile FAMILY
