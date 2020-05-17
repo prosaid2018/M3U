@@ -205,30 +205,18 @@ http://livecdnh3.tvanywhere.ae/hls/dmchd/06.m3u8
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
 #EXTINF:-1,NILE CINEMA
 http://livecdnh2.tvanywhere.ae/hls/n_cin/index.m3u8
-#EXTINF:-1,NILE COMEDY
-http://streamxcode.ddns.net:25461/load/desiboyz150/7583.mpegts
 #EXTINF:-1,NILE DRAMA
 http://livecdnh2.tvanywhere.ae/hls/nile_drama/index.m3u8
-#EXTINF:-1,NILE SPORTS
-http://streamxcode.ddns.net:25461/load/desiboyz150/6513.mpegts
-#EXTINF:-1,Nile FAMILY
-http://streamxcode.ddns.net:25461/load/desiboyz150/7584.mpegts
-#EXTINF:-1,Nile Life
-http://streamxcode.ddns.net:25461/load/desiboyz150/7585.mpegts
 #EXTINF:-1, Nile Cinema
 http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
 #EXTINF:-1, On Sport
 http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
 #EXTINF:-1,CAIRO DRAMA
 http://streamxcode.ddns.net:25461/load/desiboyz150/715.mpegts
-#EXTINF:-1,PANORAMA DRAMA
-http://streamxcode.ddns.net:25461/load/desiboyz150/724.mpegts
-#EXTINF:-1,PANORAMA DRAMA 2
-http://streamxcode.ddns.net:25461/load/desiboyz150/725.mpegts
-#EXTINF:-1,PANORAMA FLIM
-http://streamxcode.ddns.net:25461/load/desiboyz150/726.mpegts
-#EXTINF:-1,PANORAMA FOOD
-http://streamxcode.ddns.net:25461/load/desiboyz150/727.mpegts
+#EXTINF:-1,Al Rayyan
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+#EXTINF:-1,Al Rayyan Al Qadeem
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
 #EXTINF:-1,AL FAJER 1
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1,AL FAJER 2
@@ -410,6 +398,8 @@ http://api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
 http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
 #EXTINF:-1,Ro'ya TV
 https://roya-live.ercdn.net/roya/roya.m3u8
+#EXTINF:-1,Al Fallujah
+https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 #EXTINF:-1,AL RAFIDAIN
 http://cdg3.edge.tmed.pw/arrafidaintv/abr_live/arrafidaintv/live_720p/chunks.m3u8
 #EXTINF:-1,ALRASHEED TV
@@ -426,6 +416,10 @@ https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1,Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1,Al Iraqiya News
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1,Al Iraqiya Sport
+http://95.170.215.109/hls/m3u8/IraqiaSp-Backup.m3u8
 #EXTINF:-1,HAWAS
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd_480p.m3u8
 #EXTINF:-1,iFilm Arabic
