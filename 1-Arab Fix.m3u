@@ -638,7 +638,7 @@ http://yletv-lh.akamaihd.net/i/yletv1hls_1@103188/master.m3u8
 http://yletv-lh.akamaihd.net/i/yletv2hls_1@103189/master.m3u8
 #EXTINF:0,Yle Teema
 http://yletv-lh.akamaihd.net/i/yleteemahls_1@103187/master.m3u8
-#EXTINF:0,Yle Fem 
-http://yletv-lh.akamaihd.net/i/yleteemafemfi_1@490775/index_2764_av-p.m3u8
+#EXTINF:0,Yle Fem (suomi)
+http://yletv-lh.akamaihd.net/i/ylefemfihls_1@103185/master.m3u8
 #EXTINF:0,Yle Fem (ruotsi)
 http://yletv-lh.akamaihd.net/i/ylefemsehls_1@103186/master.m3u8
