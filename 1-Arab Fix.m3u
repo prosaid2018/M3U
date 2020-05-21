@@ -8,7 +8,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1,FRANCE24
 http://f24hls-i.akamaihd.net/hls/live/221148-b/F24_AR_HI_HLS/master_900.m3u8
 #EXTINF:-1,Skynewsarabia
-http://livecdnh3.tvanywhere.ae/hls/skynewsar/01.m3u8
+https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1,BBC Arabic
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
 #EXTINF:-1,TRT Arabia
