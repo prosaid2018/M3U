@@ -54,9 +54,7 @@ http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
 #EXTINF:-1, WESAL TV
 http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
 #EXTINF:-1, Al Quran Al Kareem
-http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
-#EXTINF:-1, Al Sunnah
-http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+http://103.205.133.42:1935/local/quran_tv_720/chunklist_w1192781608.m3u8
 #EXTINF:-1, Makkah
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w966623075.m3u8
 #EXTINF:-1, Nabawi TV
@@ -221,32 +219,34 @@ https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1,AL FAJER 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-#EXTINF:0,Ajyal TV
+#EXTINF:-1,Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:0,An-Najah Nbc
-http://htvpalsat.mada.ps:8888/najah/index.m3u8
-#EXTINF:0,Palestine Mubasher
+#EXTINF:-1,Al Aqsa Channel
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1,Al Mahd
+http://vstream3.hadara.ps:8081/Almahed/Almahed/chunks.m3u8
+#EXTINF:-1,An-Najah Nbc
+http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
+#EXTINF:-1,Audeh
+http://htvpalsat.mada.ps:8888/audeh/index.m3u8
+#EXTINF:-1,Marah FM
+http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
+#EXTINF:-1,MusawaChannel
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+#EXTINF:-1,Palestine Mubasher
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
-#EXTINF:0,Palestine Today
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:0,Wattan
+#EXTINF:-1,Palestine Satellite Channel
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8
+#EXTINF:-1,Palestine Satellite Channel
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Watan TV
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 #EXTINF:0,HALA
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 #EXTINF:0,Makan 33 מכאן
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
-#EXTINF:0,Marah FM
-http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
-#EXTINF:-1,PALESTINIAN TV
-http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8
 #EXTINF:-1,ROYA TV
 https://roya-live.ercdn.net/roya/roya.m3u8
-#EXTINF:-1,PALESTINE
-http://4tfgufj-lh.akamaihd.net/i/4tfgufj2owx9ga_1@793108/index_2000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Audeh
-https://ch.iptvmate.net/1944f87dc4c0e3f5d663b95ad6f68ea8.m3u8
-#EXTINF:-1,MUSAWA
-http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
 #EXTINF:-1,LT
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/3137092e17ee31bf38a832f9ee247163.sdp/chunks.m3u8
 #EXTINF:-1,MTV LEBANON
