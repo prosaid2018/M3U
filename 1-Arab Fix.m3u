@@ -75,10 +75,6 @@ https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
 http://jmc-live.ercdn.net/alistiqama/alistiqama_360p.m3u8
 #EXTINF:-1, Noor Sham
 http://82.137.248.16:1935/Nour/stream31122019/chunklist_w1345267388.m3u8
-#EXTINF:-1, Erresala
-http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
-#EXTINF:-1, Eyaka
-http://livecdnh3.tvanywhere.ae/hls/majd/04.m3u8
 #EXTINF:-1, NOOR DUBAI
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
 #EXTINF:0, 2M Monde
