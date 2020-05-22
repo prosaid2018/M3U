@@ -458,16 +458,16 @@ https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
 #EXTINF:-1,Canadian Arab TV
 http://142.112.39.133:8080/catv.mp4
-#EXTINF:0,Al-Istiqama
+#EXTINF:-1,Al-Istiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:0,OMAN CULTURAL
-http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:0,OMAN LIVE
-http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
-#EXTINF:0,OMAN SPORT
-http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
-#EXTINF:0,OMAN TV
-http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+#EXTINF:-1,Oman Sport
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1,Oman TV
+http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:-1,Oman TV Cultural
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:-1,Oman TV Mubashir
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
 #EXTINF:-1, Al Masirah
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 #EXTINF:-1, ADEN
