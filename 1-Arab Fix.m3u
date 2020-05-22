@@ -380,14 +380,74 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/playlist.m3u8
 #EXTINF:-1,KTV Sport Plus
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/playlist.m3u8
+#EXTINF:-1,Amman TV
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
+#EXTINF:-1,Jordan Sport TV
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
+#EXTINF:-1,Jordan Sport TV
+http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
+#EXTINF:-1,Jordan TV
+http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
+#EXTINF:-1,Ro'ya TV
+https://roya-live.ercdn.net/roya/roya.m3u8
 #EXTINF:-1,AL MAMLAKA TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1, Al Taghier TV HD
 http://api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
-#EXTINF:-1,JORDAN
-http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
-#EXTINF:-1,Ro'ya TV
-https://roya-live.ercdn.net/roya/roya.m3u8
+#EXTINF:-1,Al Fady
+http://media.smc-host.com:1935/redirect/alfadytv.tv/alfadytv.smil?type=m3u8
+#EXTINF:-1,Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,Al Hurra Iraq
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:-1,Al Iraqiya Al 3ama
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:-1,Al Iraqiya News
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1,Al Rafidain
+http://cdn.edge.tmed.pw/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:-1,Al Rafidain HQ
+http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8
+#EXTINF:-1,Al Rasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1,Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1,Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1,AshurSat
+https://5afd52b55ff79.streamlock.net/AshurSat/myStream/playlist.m3u8
+#EXTINF:-1,Assyrian ANB
+https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8
+#EXTINF:-1,Dijlah
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1,Dijlah Tarab
+https://ghaasiflu.online/tarab/index.m3u8
+#EXTINF:-1,Imam Hussein TV 1 Farsi
+http://live.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:-1,Imam Hussein TV 2 Arabic
+http://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1,Imam Hussein TV 2 Arabic
+https://ar.imamhusseintv.com/live/ih201/index.m3u8
+#EXTINF:-1,Imam Hussein TV 3 English
+http://live.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1,Imam Hussein TV 4 Urdu
+http://live.imamhossaintv.com/live/ih4.m3u8
+#EXTINF:-1,Imam Hussein TV 4 Urdu
+https://ur.imamhusseintv.com/live/ih4.m3u8
+#EXTINF:-1,Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
+#EXTINF:-1,KurdMax
+http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8
+#EXTINF:-1,KurdMax Papule
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+#EXTINF:-1,KurdMax Show
+http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/chunklist.m3u8
+#EXTINF:-1,Kurdsat
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Türkmeneli
+http://116.203.71.169/hls/stream1.m3u8
+#EXTINF:-1,Zagros
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1,Al Fallujah
 https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 #EXTINF:-1,AL RAFIDAIN
