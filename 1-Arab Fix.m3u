@@ -26,7 +26,7 @@ http://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
 #EXTINF:-1,Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1,CNBC Arabiya
-http://live.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8
+http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTINF:-1,Al Araby
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1,Al-Hiwar
@@ -143,18 +143,32 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/04.m3u8
 #EXTINF:-1,B4UAFLAM
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
-#EXTINF:-1,IMARAT
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1,Dubai TV
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
-#EXTINF:-1,Abu Dhabi 1
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
-#EXTINF:-1,Abu Dhabi Drama
-http://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0,Abu Dhabi TV HD
+http://adtv.ercdn.net/adaloula/adaloula.m3u8
+#EXTINF:0,Abu Dhabi Drama HD
+http://adtv.ercdn.net/addrama/addrama.m3u8
+#EXTINF:0,AL Emarat HD
+http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
+#EXTINF:0,AL Dafrah TV
+http://aldafrahtv.noip.us:1935/live/_definst_/myStream2/chunklist_w1054759444.m3u8
+#EXTINF:0,Sharjah
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:0,ALAN
+http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
+#EXTINF:0,DUBAI OLA HD
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:,DUBAI ONE HD
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:0,NOOR DUBAI HD
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
+#EXTINF:0,SAMA DUBAI
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:0,DUBAI.ZAMAN
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0,DUBAI Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1,AL SHARJAH KALBA
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1,SAMA DUBAI
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
 #EXTINF:-1,Ajman TV
 http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
 #EXTINF:-1,Al Wousta
@@ -163,12 +177,8 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 http://livecdnh2.tvanywhere.ae/hls/sharjah/04.m3u8
 #EXTINF:-1,3eesh Al Aan TV
 http://52.31.121.58/playlist.m3u8
-#EXTINF:-1,Al Aan TV
-http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
 #EXTINF:-1,Noor Dubai
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-#EXTINF:-1,Sama Dubai
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
 #EXTINF:-1,ONE Dubai
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1, Al Kahera Wal Nas
@@ -247,7 +257,7 @@ https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
 #EXTINF:-1,ROYA TV
 https://roya-live.ercdn.net/roya/roya.m3u8
-#EXTINF:-1,LT
+#EXTINF:-1,TL
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/3137092e17ee31bf38a832f9ee247163.sdp/chunks.m3u8
 #EXTINF:-1,Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
@@ -281,12 +291,6 @@ http://82.212.74.2:8000/live/7321.m3u8
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Fadaeya Libeya
 http://82.212.74.2:8000/live/7321.m3u8
-#EXTINF:-1,Tunisia
-http://streamxcode.ddns.net:25461/load/desiboyz150/7589.mpegts
-#EXTINF:-1,Tunisia Nat 1
-http://streamxcode.ddns.net:25461/load/desiboyz150/6278.mpegts
-#EXTINF:-1,Tunisia Nat 2
-http://streamxcode.ddns.net:25461/load/desiboyz150/6279.mpegts
 #EXTINF:-1,SAHEL TV
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1,Jawhara FM
@@ -542,16 +546,30 @@ http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
 https://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/index.m3u8
 #EXTINF:-1,Al ALAMIA
 http://82.212.74.100:8000/live/hls/8950.m3u8
-#EXTINF:-1,AL JAZEERA DOC
-http://streamxcode.ddns.net:25461/load/desiboyz150/7576.mpegt
 #EXTINF:0,Nat Geo Abu Dhabi
 http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/index.m3u8
 #EXTINF:0,Nat Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:0,NAT GEO WILD HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0,Nat geo people SD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF:0,ALJazeera doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/appleman1434.m3u8
+#EXTINF:0,BAHRAIN INTERNATIONAL
+http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
+#EXTINF:0,Oman doc
+http://38.96.148.35:1935/live/omantv04/chunklist.m3u8
+#EXTINF:0,Nat_Geo_Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:0,Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:0,Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:0, kaif
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:0,Fishing-And-Hunt
+http://95.170.215.118/hls/m3u8/Fishing-And-Hunt.m3u8
+#EXTINF:0,Animal-Planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
 #EXTINF:0,Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 ,H2
