@@ -249,22 +249,10 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
 https://roya-live.ercdn.net/roya/roya.m3u8
 #EXTINF:-1,LT
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/3137092e17ee31bf38a832f9ee247163.sdp/chunks.m3u8
-#EXTINF:-1,MTV LEBANON
-http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/index.m3u8
-#EXTINF:-1,LBC
-http://livecdnh2.tvanywhere.ae/hls/lbc_int/02.m3u8
-#EXTINF:,NBN
-http://livecdnh1.tvanywhere.ae/hls/nbn/05.m3u8
-#EXTINF:-1,Al Jadeed
-http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
 #EXTINF:-1,Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
 #EXTINF:-1,OTV Lebanon
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
-#EXTINF:-1,ALAAN TV
-http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
-#EXTINF:-1,LDC
-http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
 #EXTINF:-1, OTV
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
 #EXTINF:-1, El Manar
