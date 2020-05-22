@@ -61,8 +61,6 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w966623075.m3u8
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 #EXTINF:-1, iQraa
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-#EXTINF:-1,Almajd TV
-http://livecdnh3.tvanywhere.ae/hls/majd/04.m3u
 #EXTINF:-1, DAAWA
 http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
 #EXTINF:-1, Cordoba Int TV
@@ -135,22 +133,10 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/index.m3u8
 #EXTINF:-1,MBC Bollywood
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
-#EXTINF:-1,ZEE AFLAM
-http://livecdnh3.tvanywhere.ae/hls/zeeaflam/04.m3u8
-#EXTINF:-1,B4UAFLAM
-http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
-#EXTINF:0,Abu Dhabi TV HD
-http://adtv.ercdn.net/adaloula/adaloula.m3u8
-#EXTINF:0,Abu Dhabi Drama HD
-http://adtv.ercdn.net/addrama/addrama.m3u8
-#EXTINF:0,AL Emarat HD
-http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
-#EXTINF:0,AL Dafrah TV
-http://aldafrahtv.noip.us:1935/live/_definst_/myStream2/chunklist_w1054759444.m3u8
-#EXTINF:0,Sharjah
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:0,ALAN
-http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
+#EXTINF:-1,Abu Dhabi TV
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-1,Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3
 #EXTINF:0,DUBAI OLA HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:,DUBAI ONE HD
@@ -163,20 +149,12 @@ http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunkl
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:0,DUBAI Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:0,Sharjah
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1,AL SHARJAH KALBA
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1,Ajman TV
-http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
-#EXTINF:-1,Al Wousta
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1,Sharjah
-http://livecdnh2.tvanywhere.ae/hls/sharjah/04.m3u8
 #EXTINF:-1,3eesh Al Aan TV
 http://52.31.121.58/playlist.m3u8
-#EXTINF:-1,Noor Dubai
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-#EXTINF:-1,ONE Dubai
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1, Al Kahera Wal Nas
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 #EXTINF:-1, Sada_Al_Balad
