@@ -1,41 +1,13 @@
 #EXTM3U
-#EXTINF:-1,BeIN SPORTS 1 4k
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/6
-#EXTINF:-1,BeIN SPORTS 2 4k
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/7
-#EXTINF:-1,BeIN SPORTS 3 4
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/8
-#EXTINF:-1,BeIN SPORTS 4 4k
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/9
-#EXTINF:-1,BeIN SPORTS 5 4k
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/10
-#EXTINF:-1,BEIN SPORT LOW 1 BACKUP
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/1
-#EXTINF:-1,BEIN SPORT LOW 2 BACKUP
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/2
-#EXTINF:-1,BEIN SPORT LOW 3 BACKUP
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/3
-#EXTINF:-1,BEIN SPORT LOW 4 BACKUP
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/4
-#EXTINF:-1,BEIN SPORT LOW 5 BACKU
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/5
-#EXTINF:-1,BEIN SPORT LOCAL 1
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/11
-#EXTINF:-1,BEIN SPORT LOCAL 2
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/12
-#EXTINF:-1,BEIN SPORT LOCAL 3
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/13
-#EXTINF:-1,BEIN SPORT LOCAL 4
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/14
-#EXTINF:-1,BEIN SPORT LOCAL 5
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/15
-#EXTINF:-1,BEIN SPORT LOCAL 6
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/16
-#EXTINF:-1,BEIN SPORT LOCAL 7
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/17
-#EXTINF:-1,BEIN SPORT LOCAL 8
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/18
-#EXTINF:-1,BEIN SPORT LOCAL 9
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/19
-#EXTINF:-1,BEIN SPORT LOCAL 10
-http://blackfiretv.net:25460/blacktvsport2/nDBUzOjSbx/20
+#EXTINF:-1,Bein-Sport-HD-1
+http://130.193.165.50:4000/play/a004/index.m3u8
+#EXTINF:-1,Bein-Sport-HD-2
+http://130.193.165.50:4000/play/a005/index.m3u8
+#EXTINF:-1,Bein-Sport-HD-3
+http://130.193.165.50:4000/play/a006/index.m3u8
+#EXTINF:-1,Bein-Sport-HD-4
+http://130.193.165.50:4000/play/a007/index.m3u8
+#EXTINF:-1,Bein-Sport-HD-5
+http://130.193.165.50:4000/play/a008/index.m3u8
+#EXTINF:-1,NRT-TEST
+http://130.193.165.50:4000/play/a003/index.m3u8
