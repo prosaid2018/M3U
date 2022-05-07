@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0 type="video" channelId="-1", Alrafidain (1024p) [Not 24/7]
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1", CBC (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/cbcstream/live
+#EXTINF:0 type="video" channelId="-1", CBC Drama (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CBCDramaStream/live
+#EXTINF:0 type="video" channelId="-1", CBC Sofra
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CBCSofraStream/live
+#EXTINF:0 type="video" channelId="-1", Elsharq TV (1080p) [Not 24/7]
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", eXtra News (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live
+#EXTINF:0 type="video" channelId="-1", Koogi TV (1080p)
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", Mekameleen TV (1080p)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", Nile TV Cinema (576p) [Not 24/7]
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 type="video" channelId="-1", Nile TV Life (576p) [Not 24/7]
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileLife/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 type="video" channelId="-1", Noble TV (360p)
+https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", Nogoum FM TV (506p) [Not 24/7]
+https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", Omg Channel TV (720p) [Not 24/7]
+http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", Omg Series TV (720p) [Not 24/7]
+http://media6.smc-host.com:1935/omgchannel.net/omgseries/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", Ten TV (720p) [Not 24/7]
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+#EXTINF:0 type="video" channelId="-1", Al Watan
+https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8

@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:0 type="video" channelId="-1", Alghad Almushreq (576p)
+http://82.212.74.3:8000/live/7512.m3u8
+#EXTINF:0 type="video" channelId="-1", Al Masirah (720p) [Not 24/7]
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", Al Masirah TV (720p) [Not 24/7]
+https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", Alyaman Shabab (1080p) [Not 24/7]
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+#EXTINF:0 type="video" channelId="-1", Suhail TV (576p)
+http://82.212.74.98:8000/live/hls/7726.m3u8
